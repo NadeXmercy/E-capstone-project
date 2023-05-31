@@ -1,6 +1,6 @@
 import { Button, Typography,Divider} from '@mui/material';
 import Carousel from 'react-multi-carousel'
-// import 'react-multi-carousel/lib/styles.css';
+import 'react-multi-carousel/lib/styles.css';
 import {Link} from 'react-router-dom';
 const responsive = {
     superLargeDesktop: {
